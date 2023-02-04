@@ -1,0 +1,82 @@
+h1 {
+    text-align: center;
+    padding-top: 2%;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 8%;
+}
+
+body {
+    background-color: rgb(23, 23, 67);
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+.top {
+    padding-bottom: 8%;
+}
+
+
+hr {
+    width:10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stocks-down {
+    float: left;
+    margin-right: auto;
+    width: 10%;
+    margin-left: 30%;
+
+}
+
+.stocks-up {
+    float: right;
+    width:10%;
+    margin-right: 30%;
+}
+
+.title {
+    padding-bottom: 6%;
+}
+
+.top {
+    text-align: center;
+}
+
+p {
+    font-size: 12;
+}
+
+a {
+    font-size: 20px;
+}
+
+a:link {
+    color: rgb(247, 231, 59);
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color:orange;
+}
+
+a:hover {
+    color:white;
+    text-decoration: none;
+}
+
+
+.bottom {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.middle {
+    padding-bottom: 6%;
+}
+
